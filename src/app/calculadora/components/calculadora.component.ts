@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { CalculadoraService } from '../services';
-import { timingSafeEqual } from 'crypto';
 import { TouchSequence } from 'selenium-webdriver';
 
 @Component({
